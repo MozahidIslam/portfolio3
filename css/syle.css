@@ -1,0 +1,174 @@
+
+.chicken-12 {
+
+    width: 70%;
+    margin: auto;
+
+}
+.orange-8 {
+
+    width: 70%;
+    margin: auto;
+
+}
+.river {
+
+    width: 92%;
+    margin: auto;
+    overflow: hidden;
+
+}
+/*----cared----*/
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 65%;
+  margin: auto;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+  padding: 2px 16px;
+}/*--end container--*/
+
+
+
+.apple {
+    width: 88%;
+    margin: auto;
+}
+.icon {
+    color: 
+    #4ea841;
+}
+
+.fan {
+    width: 94%;
+    margin: auto;
+}
+.phone {
+
+    width: 92%;
+    margin: auto;
+
+}
+.phone-5 {
+
+    margin-top: 84px !important;
+
+}/*--------end phone-5-----*/
+
+
+
+.container-1 {
+  position: relative;
+  width: 100%;
+}
+
+.image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middle {
+  width: 100%;
+  text-align: center;
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%)
+}
+
+.container-1:hover .image {
+  opacity: 0.3;
+}
+
+.container-1:hover .middle {
+  opacity: 1;
+}
+
+.text {
+ 
+  color: black;
+  font-size: 16px;
+  padding: 16px 32px;
+}/*----------container-1-------------end--*/
+/*------icon bar----------*/
+ .fab.fa-linkedin {
+  
+  color: #007bb5;
+}
+
+.fab.fa-twitter {
+ background-color: #55ACEE;
+  color: white;
+}
+.fab.fa-facebook-square {
+
+  color: #3B5998;
+}
+
+
+li {
+
+    list-style: none;
+
+}
+
+.fotter-7 {
+
+    width: 93%;
+    margin: auto;
+    overflow: hidden;
+
+}
+.stovery-2 {
+
+    margin-top: 63px;
+
+}
+.stovery-1 {
+    margin-top: 63px;
+
+}
+.lemon-12 {
+
+    width: 90%;
+    margin: auto;
+
+}
+p{
+  color: gray;
+}
+.river p{
+  color: white;
+}
+.fotter-1 li {
+
+    color: 
+
+    gray;
+
+}
+.fas.fa-check-circle {
+
+    padding: 9px;
+    color: #2196f3;
+
+}
+.fotter-7 li:hover {
+color: white;
+}
+.main-container {
+font-family: Arial Narrow;
+}
